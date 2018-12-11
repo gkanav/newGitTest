@@ -6,7 +6,7 @@ int main()
 
 	char name[20];
 
-	printf("type your name");
+	printf("type your name /n");
 	scanf("%d",name)
 
 	printf("hello %s\n",name );
